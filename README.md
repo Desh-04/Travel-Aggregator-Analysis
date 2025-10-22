@@ -13,16 +13,16 @@ Using Python, I performed data cleaning, analysis, and visualization to answer r
 4. What’s the monthly and weekly Booking-to-Search Ratio (oBSR) trend?
 
 ## Skills & Techniques:
- -> Data Cleaning & Preprocessing
- -> Exploratory Data Analysis (EDA)
- -> Data Visualization (Pie charts, Heatmaps, Time Series)
- -> Statistical & Trend Analysis
+ * Data Cleaning & Preprocessing
+ * Exploratory Data Analysis (EDA)
+ * Data Visualization (Pie charts, Heatmaps, Time Series)
+ * Statistical & Trend Analysis
 
 ## Tools & Libraries:
-~ Python 
-~ Pandas, NumPy – Data manipulation
-~ Matplotlib, Seaborn – Visualization
-~ Scikit-learn – Scaling & normalization
+* Python 
+* Pandas, NumPy – Data manipulation
+* Matplotlib, Seaborn – Visualization
+* Scikit-learn – Scaling & normalization
 
 ## Key Insights:
 * Thursdays & Fridays showed the highest number of bookings.
