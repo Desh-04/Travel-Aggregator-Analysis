@@ -1,6 +1,6 @@
-## Travel Aggregator Analysis
+# Travel Aggregator Analysis
 
-# Project Overview:
+## Project Overview:
 This project explores travel booking data from a travel aggregator platform to uncover business insights and user behavior trends.
 Using Python, I performed data cleaning, analysis, and visualization to answer real-world questions such as:
 
@@ -12,25 +12,25 @@ Using Python, I performed data cleaning, analysis, and visualization to answer r
 
 4. What’s the monthly and weekly Booking-to-Search Ratio (oBSR) trend?
 
-# Skills & Techniques:
+## Skills & Techniques:
  -> Data Cleaning & Preprocessing
  -> Exploratory Data Analysis (EDA)
  -> Data Visualization (Pie charts, Heatmaps, Time Series)
  -> Statistical & Trend Analysis
 
-# Tools & Libraries:
+## Tools & Libraries:
 ~ Python 
 ~ Pandas, NumPy – Data manipulation
 ~ Matplotlib, Seaborn – Visualization
 ~ Scikit-learn – Scaling & normalization
 
-# Key Insights:
+## Key Insights:
 * Thursdays & Fridays showed the highest number of bookings.
 * Top 3 advance-booking cities revealed strong early-planning customer behavior.
 * Mobile devices dominated booking activity across quarters.
 * oBSR analysis helped understand conversion from searches to actual bookings.
 
-# Data Preparation
+## Data Preparation
 1. Removed missing values & duplicates
 
 2. Fixed inconsistent data types
@@ -39,7 +39,7 @@ Using Python, I performed data cleaning, analysis, and visualization to answer r
 
 4. Scaled and normalized numerical columns
 
-# Project Highlights
+## Project Highlights
 
 1. Designed visual summaries using pastel-themed heatmaps & pie charts
 
@@ -47,7 +47,7 @@ Using Python, I performed data cleaning, analysis, and visualization to answer r
 
 3. Created quarterly time series plots for booking patterns
 
-# Outcome:
+## Outcome:
 
 Helped identify booking behavior patterns that can support:
 1. Marketing strategies (target high-booking days/cities)
@@ -56,7 +56,7 @@ Helped identify booking behavior patterns that can support:
 
 3. Revenue insights through oBSR trends
 
-# Future Enhancements
+## Future Enhancements
 
 * Add predictive analysis for demand forecasting.
 
