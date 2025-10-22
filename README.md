@@ -8,7 +8,7 @@ Using Python, I performed data cleaning, analysis, and visualization to answer r
 
 2. What are the most popular routes and devices used?
 
-3. How early do customers book from top cities?
+3. How early do customers book from Top cities?
 
 4. What’s the monthly and weekly Booking-to-Search Ratio (oBSR) trend?
 
